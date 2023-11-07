@@ -161,7 +161,7 @@ const MyPage = () => {
                 <Card className='my-card' style={{ width: '100%', maxWidth: 1000 }}>
                     <CardContent>
                         <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
-                            <img src="../src/assets/mintheinkha_logo.png" alt="Logo" width="250" height="250" />
+                            <img src="/mintheinkha_logo.png" alt="Logo" width="250" height="250" />
                         </div>
                         <Box display="flex" alignItems="center" marginBottom="20px">
                             <Avatar sx={{ marginRight: '10px' }}>
