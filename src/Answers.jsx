@@ -129,7 +129,7 @@ const MyPage = () => {
           showSnackbarMessage();
           setTimeout(() => {
             setShowSnackbar(false); 
-            navigate("/");
+            navigate("/history");
           }, 2000);
           
         } else {
